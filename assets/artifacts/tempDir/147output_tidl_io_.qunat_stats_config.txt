@@ -1,0 +1,13 @@
+inFileFormat    = 1
+numFrames   = 5
+postProcType   = 0
+postProcDataId   = 0
+quantRangeUpdateFactor   = -1.000000
+inData   = /home/workdir/assets/artifacts/tempDir/147output_calib_raw_data.bin
+outData   = "/home/workdir/assets/artifacts/tempDir/147output_tidl_io__stats_tool_out.bin"
+netBinFile     = /home/workdir/assets/artifacts/tempDir/147output_tidl_net.bin
+ioConfigFile        = /home/workdir/assets/artifacts/tempDir/147output_tidl_io_1.bin
+flowCtrl        = 35
+writeTraceLevel        = 0
+debugTraceLevel        = 0
+traceDumpBaseName        = "/home/workdir/assets/artifacts/tempDir/147output_tidl_io_
